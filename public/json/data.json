@@ -1,25 +1,30 @@
 [
     {
-        "name":"Color Palette 1",
-        "palette_1":{
-            "red":56,
-            "green":94,
-            "blue":114
-        },
-        "palette_2":{
-            "red":106,
-            "green":171,
-            "blue":210
-        },
-        "palette_3":{
-            "red":183,
-            "green":207,
-            "blue":220
-        },
-        "palette_4":{
-            "red":217,
-            "green":228,
-            "blue":236
-        }
+        "name":"Ice Infinity",
+        "palette_1":"#385E72",
+        "palette_2":"#6AABD2",
+        "palette_3":"#B7CFDC",
+        "palette_4":"#D9E4EC"
+    },
+    {
+        "name":"Dark Road Curve",
+        "palette_1":"#B1B1B1",
+        "palette_2":"#747474",
+        "palette_3":"#444444",
+        "palette_4":"#0A0708"
+    },
+    {
+        "name":"Handpainted Sky",
+        "palette_1":"#E390C8",
+        "palette_2":"#BE81B6",
+        "palette_3":"#A072BE",
+        "palette_4":"#5D59AF"
+    },
+    {
+        "name":"Strong and Curved",
+        "palette_1":"#97BCC7",
+        "palette_2":"#F2F1EF",
+        "palette_3":"#053D57",
+        "palette_4":"#006884"
     }
 ]
