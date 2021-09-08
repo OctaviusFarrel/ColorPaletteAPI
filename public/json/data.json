@@ -1,0 +1,25 @@
+[
+    {
+        "name":"Color Palette 1",
+        "palette_1":{
+            "red":56,
+            "green":94,
+            "blue":114
+        },
+        "palette_2":{
+            "red":106,
+            "green":171,
+            "blue":210
+        },
+        "palette_3":{
+            "red":183,
+            "green":207,
+            "blue":220
+        },
+        "palette_4":{
+            "red":217,
+            "green":228,
+            "blue":236
+        }
+    }
+]
