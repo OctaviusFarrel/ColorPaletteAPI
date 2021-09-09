@@ -1,12 +1,14 @@
 [
     {
+        "UUID":"ba840096-0080-4ec8-89dd-8ce075b0d833",
         "name":"Ice Infinity",
-        "palette_1":"#385E72",
-        "palette_2":"#6AABD2",
-        "palette_3":"#B7CFDC",
-        "palette_4":"#D9E4EC"
+        "palette_1":"#D9E4EC",
+        "palette_2":"#B7CFDC",
+        "palette_3":"#6AABD2",
+        "palette_4":"#385E72"
     },
     {
+        "UUID":"12a158d0-f05e-4924-af37-b2a814c8702f",
         "name":"Dark Road Curve",
         "palette_1":"#B1B1B1",
         "palette_2":"#747474",
@@ -14,6 +16,7 @@
         "palette_4":"#0A0708"
     },
     {
+        "UUID":"eb6d90ac-dd24-4f75-8842-2e4a2a81e989",
         "name":"Handpainted Sky",
         "palette_1":"#E390C8",
         "palette_2":"#BE81B6",
@@ -21,10 +24,35 @@
         "palette_4":"#5D59AF"
     },
     {
+        "UUID":"5d7afc95-1ddb-43e3-8a3f-445461b08432",
         "name":"Strong and Curved",
         "palette_1":"#97BCC7",
         "palette_2":"#F2F1EF",
         "palette_3":"#053D57",
         "palette_4":"#006884"
+    },
+    {
+        "UUID":"75df21d6-47e7-4c63-af95-9cb8f79ac1cd",
+        "name":"Door of Fortune",
+        "palette_1":"#F1ECE4",
+        "palette_2":"#C3B090",
+        "palette_3":"#DDCAB2",
+        "palette_4":"#92794F"
+    },
+    {
+        "UUID":"4a771670-6e70-42aa-b6a7-792807f46626",
+        "name":"Peach Kiss",
+        "palette_1":"#B52B40",
+        "palette_2":"#F69770",
+        "palette_3":"#FBD8B0",
+        "palette_4":"#FACB80"
+    },
+    {
+        "UUID":"8e9ed620-3e88-47a6-b2b1-8b9da590b17e",
+        "name":"Heart of Coral",
+        "palette_1":"#F54D3D",
+        "palette_2":"#F0A160",
+        "palette_3":"#F0A160",
+        "palette_4":"#F0A160"
     }
 ]
